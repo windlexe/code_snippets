@@ -1,0 +1,15 @@
+Core:
+	Player
+	Sprite
+    	AnimSprite
+    	Tile
+    	Chara
+        	Enemy
+            Actor
+        Widget
+        	Window
+            Button
+            	ComboButton
+            Text
+            InputText
+            ScrollPanel
