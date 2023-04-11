@@ -1,0 +1,11 @@
+Game_Temp
+Game_System
+Game_Timer
+Game_Message
+Game_Switches
+Game_SelfSwitches
+Game_Variables
+Game_Screen
+Game_Picture
+Game_Item
+Game_Action
